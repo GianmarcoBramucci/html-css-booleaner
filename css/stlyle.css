@@ -1,0 +1,46 @@
+body{
+    max-width: 1060px;
+}
+/* header */
+.template{
+    background-image: url(../img/pattern.png);
+    margin-top: 0;
+    margin-left: 0;
+    background-size: 250px;
+    height: 63px;
+    background-color: #4a98f1;
+}
+#logo{
+    height: 35px;
+    margin-top: 25px;
+}
+h1{
+    margin-bottom: 0;
+}
+#address{
+    text-decoration: none;
+    color: darkgrey;
+    margin-bottom: 10px;
+}
+/* main */
+#marker{
+    color: #4a98f1;
+}
+.sub-title{
+    font-size: 10px;
+    margin-bottom: 15px;
+}
+
+.high-lighter{
+    background-color: yellow;
+}
+/* gestione table */
+.cella-grande{
+    width: 50%;
+}
+
+thead{
+    background-color: #4a98f1;
+    color: white;
+    margin-left: 0;
+}
